@@ -13,10 +13,10 @@ Tkinter: For building the graphical user interface (GUI).
 Pillow (PIL): For image manipulation and resizing.
 ReportLab: For generating PDF documents.
 <h3>🖥️ How to Run</h3>
-Prerequisites
-Ensure that Python 3.x is installed on your system. Install the required libraries using the following command:
+<p>Prerequisites
+Ensure that Python 3.x is installed on your system. Install the required libraries using the following command:</p>
 
-bash
+<p>bash
 Copy code
 pip install tkinter pillow reportlab
 Steps to Run
@@ -26,4 +26,4 @@ Run the application using:
 bash
 Copy code
 python main.py
-Use the interface to select images, specify the output PDF name, and convert the images to a PDF file.
+Use the interface to select images, specify the output PDF name, and convert the images to a PDF file.</p>
