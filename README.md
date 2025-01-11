@@ -1,5 +1,5 @@
-Image to PDF Converter
-📖 Description
+<h1><center>Image to PDF Converter<center><h1>
+<h2>📖 Description<h2>
 The Image to PDF Converter is a Python-based desktop application built using Tkinter, Pillow, and ReportLab. It allows users to select multiple image files (PNG, JPG, JPEG) and convert them into a single PDF file with a few clicks. This tool is simple to use, lightweight, and highly effective for organizing images into a compact PDF document.
 🚀 Features
 Select Multiple Images: Choose multiple images at once using the file dialog.
